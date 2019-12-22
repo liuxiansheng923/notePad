@@ -1,3 +1,3 @@
 # notePad
-#[效果预览](https://liuxiansheng923.github.io/notePad/)
+# [效果预览](https://liuxiansheng923.github.io/notePad/)
  
